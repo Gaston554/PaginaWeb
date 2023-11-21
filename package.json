@@ -1,0 +1,27 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Registro-login",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etec-integration-project/karalevich-frontend-html-Gaston554.git"
+  },
+  "keywords": [],
+  "author": "Gastón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etec-integration-project/karalevich-frontend-html-Gaston554/issues"
+  },
+  "homepage": "https://github.com/etec-integration-project/karalevich-frontend-html-Gaston554#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.12.0",
+    "nodemon": "^2.0.22"
+  }
+}
